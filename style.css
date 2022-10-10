@@ -26,7 +26,7 @@ header{
     
    background-image: linear-gradient(to bottom,#2CA061,#063D1E);
    text-align: center;
-   margin: -3px -40px 0px 0px;
+   margin: -3px 0px 0px 0px;
    padding: 70px 70px 0px 10px;
    min-width: 480px;
    max-width: 2000px;
@@ -49,9 +49,7 @@ h1{
     font-size: 100px;
     font-weight: bolder;
     text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.459);
-    margin: 0px 30px;
-    padding: 0px 3px 0px 0px;
-    
+   
 }
 nav{
     text-align: left;
