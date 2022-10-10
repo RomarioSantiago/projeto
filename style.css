@@ -26,9 +26,9 @@ header{
     
    background-image: linear-gradient(to bottom,#2CA061,#063D1E);
    text-align: center;
-   margin: -3px -3px 0px -3px;
+   margin: -3px 0px 0px 0px;
    padding: 70px 70px 0px 10px;
-   min-width: 400px;
+   min-width: 100px;
    max-width: 2000px;
    
    
@@ -49,6 +49,9 @@ h1{
     font-size: 100px;
     font-weight: bolder;
     text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.459);
+    margin: 0px 30px;
+    padding: 0px 3px 0px 0px;
+    
 }
 nav{
     text-align: left;
@@ -76,7 +79,7 @@ a.menu:hover{
 }
 main{
     max-width: 850px;
-    min-width: 400px;
+    min-width: 200px;
     text-align: justify;
     text-indent: 30px;
     line-height: 30px;
@@ -86,6 +89,7 @@ main{
     padding-bottom: 22px;
     border-radius: 0px 0px 12px 12px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.534);
+    
 }
     
 
@@ -124,9 +128,9 @@ h3{
     text-indent: 0px;
     padding: 0px 11px;
 }
-}
+
 img{ 
-    min-width: 300;
+    
     display: block;
     margin: auto;
     
