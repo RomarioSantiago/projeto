@@ -17,7 +17,7 @@ body, html {
     }
     
     /*Corrigir escrollamento no Mobile*/
-    @media (max-width: 1000px) ,(min-width:350px){
+    @media (max-width: 2000px) ,(min-width:350px){
     body, html {
     overflow-x: hidden!important;
     }
