@@ -12,16 +12,7 @@
     padding: 0px;
    
 }
-body, html {
-    overflow-x: hidden !important;
-    }
-    
-    /*Corrigir escrollamento no Mobile*/
-    @media (max-width: 850px) ,(min-width:561px){
-    body, html {
-    overflow-x: hidden!important;
-    }
-    }
+
 
 
 body{
